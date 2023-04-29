@@ -19,7 +19,7 @@ const ActualHome = () => {
           onPress={() => console.log('Pressed')}
           style = {{marginLeft: 150, marginTop: 120}}
         />
-        <Text style = {{marginLeft: 115, fontSize: 27, color:'#FFFFFF'}}>Sagar Maurya</Text>
+        <Text style = {{marginLeft: 115, fontSize: 27, color:'#FFFFFF'}}>Sagar </Text>
     </View>
   </SafeAreaProvider>
   );
